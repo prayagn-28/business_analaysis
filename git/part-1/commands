@@ -1,0 +1,9 @@
+mkdir part-1
+cd part-1
+git init
+git add .
+git status
+git remote add origin "https://github.com/apeksha-nawkar/git.git"
+git commit -m "first "
+git push -u origin master
+git status
